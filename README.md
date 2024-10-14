@@ -63,4 +63,10 @@ write working from top of stash stack
 discard the changes from top of stash stack
 
 
+### git rebase -i [paste]
+merge commits
+
+### create a new branch
+git branch [name]
+
 
