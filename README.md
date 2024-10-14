@@ -1,7 +1,7 @@
 
 # Git and Github Tutorial
 
-## Commands
+# Commands
 
 ### SETUP:
 git config --global user.name “[firstname lastname]”
